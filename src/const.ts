@@ -5,8 +5,8 @@ export const APP_ID = "TESTNET";
 // export const APP_ID = "";
 
 // set your own USER_ID and NICKNAME
-export const USER_ID = "malik";
-export const NICKNAME = "Malik 123";
+export const USER_ID = "test";
+export const NICKNAME = "test";
 
 export const httpHost = `http://34.64.121.35:80`;
 export const wsHost = `ws://34.64.121.35:80`;

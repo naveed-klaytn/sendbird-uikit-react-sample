@@ -21,7 +21,7 @@
     "API"
   ],
   "dependencies": {
-    "@sendbird/uikit-react": "^3.4.2",
+    "@sendbird/uikit-react": "^3.6.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -29,7 +29,6 @@
     "@types/node": "^16.11.43",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
-    "@walletconnect/client": "^1.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
