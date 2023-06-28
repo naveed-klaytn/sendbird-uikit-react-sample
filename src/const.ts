@@ -8,8 +8,8 @@ export const APP_ID = "TESTNET";
 export const USER_ID = "malik";
 export const NICKNAME = "Malik 123";
 
-// export const httpHost = `http://localhost:80`;
-// export const wsHost = `ws://localhost:80`;
+export const httpHost = `http://34.64.121.35:80`;
+export const wsHost = `ws://34.64.121.35:80`;
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
